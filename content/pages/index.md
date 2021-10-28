@@ -1,6 +1,24 @@
 ---
 title: Home
 sections:
+  - type: features_section
+    features:
+      - title: >-
+          “Fantastic app for planning your day and future tasks. Works perfectly
+          everyday!”
+        subtitle: 'Alyvia Cope, Design at Company'
+        image: images/person-1.png
+        image_alt: Person 1 photo
+        media_position: right
+        media_width: thirty-three
+      - title: “A very useful project management app. I use it every day.”
+        subtitle: 'Travis Guidelines, Manager at Company'
+        image: images/person-2.png
+        image_alt: Person 2 photo
+        media_position: left
+        media_width: thirty-three
+    feature_padding_vert: small
+    background_color: secondary
   - type: hero_section
     title: Instantly Boost Your Productivity
     subtitle: Stop switching between calendars and task lists!
@@ -23,24 +41,6 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: features_section
-    features:
-      - title: >-
-          “Fantastic app for planning your day and future tasks. Works perfectly
-          everyday!”
-        subtitle: 'Alyvia Cope, Design at Company'
-        image: images/person-1.png
-        image_alt: Person 1 photo
-        media_position: right
-        media_width: thirty-three
-      - title: “A very useful project management app. I use it every day.”
-        subtitle: 'Travis Guidelines, Manager at Company'
-        image: images/person-2.png
-        image_alt: Person 2 photo
-        media_position: left
-        media_width: thirty-three
-    feature_padding_vert: small
-    background_color: secondary
   - type: cta_section
     title: Regain Control of your To Dos
     content: >-
