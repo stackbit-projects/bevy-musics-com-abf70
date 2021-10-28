@@ -1,21 +1,6 @@
 ---
 title: Home
-sections:
-  - type: hero_section
-    subtitle: null
-    content: null
-    actions:
-      - label: Google Play
-        url: /pricing
-        style: secondary
-    image: images/hero.svg
-    image_alt: Hero section placeholder image
-    media_position: left
-    media_width: sixty
-    align: left
-    padding_top: large
-    padding_bottom: large
-    background_color: primary
+sections: []
 seo:
   title: Stackbit App Theme
   description: The preview of the App theme
