@@ -3,10 +3,7 @@ title: Home
 sections:
   - type: hero_section
     subtitle:
-    content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+    content:
     actions:
       - label: App Store
         url: /pricing
