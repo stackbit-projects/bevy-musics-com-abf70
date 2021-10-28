@@ -2,12 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    subtitle:
-    content:
+    subtitle: null
+    content: null
     actions:
-      - label: App Store
-        url: /pricing
-        style: primary
       - label: Google Play
         url: /pricing
         style: secondary
