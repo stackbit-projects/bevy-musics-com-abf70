@@ -25,22 +25,6 @@ sections:
     background_color: primary
   - type: features_section
     features:
-      - title: Syncronized Calendar
-        subtitle: For true work-life balance
-        content: >-
-          Stop juggling between calendar apps and productivity tools — from now
-          on all your appointments and meetings appear in one place.
-        actions:
-          - label: Learn More
-            url: /pricing
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
-        image: images/feature-1.svg
-        image_alt: Feature 1 placeholder image
-        media_position: left
-        media_width: fifty
       - title: Comprehensive Task List
         subtitle: Always be in control
         content: >-
