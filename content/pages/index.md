@@ -3,8 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Instantly Boost Your Productivity
-    subtitle: >-
-      Stop switching between calendars and task lists!
+    subtitle: Stop switching between calendars and task lists!
     content: >-
       App Land combines your work and home calendars with all your task
       management tools into one seamless experience controlled by a single app
@@ -24,83 +23,13 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: primary
-  - type: grid_section
-    title: What's Great About App Land?
-    subtitle: >-
-      In a Glance
-    align: center
-    grid_items:
-      - title: Right When You Need It
-        title_align: left
-        content: >-
-          See all of your appointments, work meetings and life events in one
-          place so you know exactly where you need to be at any given time.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/icon-1.svg
-        image_alt: Icon 1
-        image_align: left
-        image_has_padding: true
-        image_position: top
-      - title: On Any Device
-        title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/icon-2.svg
-        image_alt: Icon 2
-        image_align: left
-        image_has_padding: true
-        image_position: top
-      - title: Smart Notifications
-        title_align: left
-        content: >-
-          Get color-coded notifications for easy viewing at a glance. Your tasks
-          and appointments show up conveniently in one place.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/icon-3.svg
-        image_alt: Icon 3
-        image_align: left
-        image_has_padding: true
-        image_position: top
-    grid_cols: three
-    grid_gap_horiz: medium
-    grid_gap_vert: small
-    enable_cards: true
-    padding_top: medium
-    padding_bottom: medium
-    background_color: none
   - type: features_section
     features:
       - title: Syncronized Calendar
-        subtitle: >-
-          For true work-life balance
+        subtitle: For true work-life balance
         content: >-
-          Stop juggling between calendar apps and productivity tools — from now on all your appointments and meetings appear in one place.
+          Stop juggling between calendar apps and productivity tools — from now
+          on all your appointments and meetings appear in one place.
         actions:
           - label: Learn More
             url: /pricing
@@ -113,8 +42,7 @@ sections:
         media_position: left
         media_width: fifty
       - title: Comprehensive Task List
-        subtitle: >-
-          Always be in control
+        subtitle: Always be in control
         content: >-
           We all have stuff to do all the time: Work tasks, calls to make,
           groceries to buy and dry cleaning to pick up. Get all your tasks in
@@ -138,16 +66,13 @@ sections:
       - title: >-
           “Fantastic app for planning your day and future tasks. Works perfectly
           everyday!”
-        subtitle: >-
-          Alyvia Cope, Design at Company
+        subtitle: 'Alyvia Cope, Design at Company'
         image: images/person-1.png
         image_alt: Person 1 photo
         media_position: right
         media_width: thirty-three
-      - title: >-
-          “A very useful project management app. I use it every day.”
-        subtitle: >-
-          Travis Guidelines, Manager at Company
+      - title: “A very useful project management app. I use it every day.”
+        subtitle: 'Travis Guidelines, Manager at Company'
         image: images/person-2.png
         image_alt: Person 2 photo
         media_position: left
@@ -157,7 +82,8 @@ sections:
   - type: cta_section
     title: Regain Control of your To Dos
     content: >-
-      Download App Land now and connect with all your calendars, project management tools and task lists — it doesn't get easier than this!
+      Download App Land now and connect with all your calendars, project
+      management tools and task lists — it doesn't get easier than this!
     actions:
       - label: App Store
         url: /pricing
@@ -204,26 +130,26 @@ seo:
   title: Stackbit App Theme
   description: The preview of the App theme
   extra:
-    - name: og:type
+    - name: 'og:type'
       value: website
       keyName: property
-    - name: og:title
+    - name: 'og:title'
       value: Stackbit App Theme
       keyName: property
-    - name: og:description
+    - name: 'og:description'
       value: The preview of the App theme
       keyName: property
-    - name: og:image
+    - name: 'og:image'
       value: images/post-1.jpg
       keyName: property
       relativeUrl: true
-    - name: twitter:card
+    - name: 'twitter:card'
       value: summary_large_image
-    - name: twitter:title
+    - name: 'twitter:title'
       value: Stackbit App Theme
-    - name: twitter:description
+    - name: 'twitter:description'
       value: The preview of the App theme
-    - name: twitter:image
+    - name: 'twitter:image'
       value: images/post-1.jpg
       relativeUrl: true
 layout: advanced
